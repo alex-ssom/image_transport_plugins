@@ -1,7 +1,7 @@
 <library path="lib/libcompressed_depth_image_transport">
   <class name="image_transport/compressedDepth_pub" type="compressed_depth_image_transport::CompressedDepthPublisher" base_class_type="image_transport::PublisherPlugin">
     <description>
-      This plugin publishes a compressed depth images using PNG compression.
+      This plugin publishes a compressed depth images using RVL or PNG compression.
     </description>
   </class>
 

@@ -3,7 +3,7 @@
   <version>1.14.0</version>
   <description>
     Compressed_depth_image_transport provides a plugin to image_transport for transparently sending
-    depth images (raw, floating-point) using PNG compression.
+    depth images (raw, floating-point) using RVL or PNG compression.
   </description>
   <maintainer email="dgossow@willowgarage.com">David Gossow</maintainer>
   <license>BSD</license>
